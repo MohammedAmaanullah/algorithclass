@@ -1,2 +1,2 @@
-# algorithclass
-when the rectangles are touching each other their color changes
+# p5.play-boilerplate
+Boiler plate for p5.play
